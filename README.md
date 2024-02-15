@@ -1,2 +1,2 @@
-# graphprompter
+# Graphprompter
 Implementation of GraphPrompter
