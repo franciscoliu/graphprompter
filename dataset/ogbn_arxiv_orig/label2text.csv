@@ -1,0 +1,41 @@
+label idx,arxiv category,keyword,answer
+0,arxiv cs na,numerical analysis,Numerical Analysis
+1,arxiv cs mm,multimedia,Multimedia
+2,arxiv cs lo,logic,Logic in Computer Science
+3,arxiv cs cy,society,Computers and Society
+4,arxiv cs cr,security,Cryptography and Security
+5,arxiv cs dc,distributed computing,"Distributed, Parallel, and Cluster Computing"
+6,arxiv cs hc,human-computer interaction,Human-Computer Interaction
+7,arxiv cs ce,computational,"Computational Engineering, Finance, and Science"
+8,arxiv cs ni,networking,Networking and Internet Architecture
+9,arxiv cs cc,complexity,Computational Complexity
+10,arxiv cs ai,intelligence,Artificial Intelligence
+11,arxiv cs ma,multiagent systems,Multiagent Systems
+12,arxiv cs gl,general literature,General Literature
+13,arxiv cs ne,evolutionary computing,Neural and Evolutionary Computing
+14,arxiv cs sc,symbolic computation,Symbolic Computation
+15,arxiv cs ar,hardware,Hardware Architecture
+16,arxiv cs cv,vision,Computer Vision and Pattern Recognition
+17,arxiv cs gr,graphics,Graphics
+18,arxiv cs et,emerging technologies,Emerging Technologies
+19,arxiv cs sy,systems,Systems and Control
+20,arxiv cs cg,geometry,Computational Geometry
+21,arxiv cs oh,other,Other Computer Science
+22,arxiv cs pl,programming languages,Programming Languages
+23,arxiv cs se,software engineering,Software Engineering
+24,arxiv cs lg,learning,Machine Learning
+25,arxiv cs sd,sound,Sound
+26,arxiv cs si,social networks,Social and Information Networks
+27,arxiv cs ro,robotics,Robotics
+28,arxiv cs it,information theory,Information Theory
+29,arxiv cs pf,performance,Performance
+30,arxiv cs cl,language,Computation and Language
+31,arxiv cs ir,information retrieval,Information Retrieval
+32,arxiv cs ms,mathematical software,Mathematical Software
+33,arxiv cs fl,formal languages,Formal Languages and Automata Theory
+34,arxiv cs ds,algorithms,Data Structures and Algorithms
+35,arxiv cs os,operating systems,Operating Systems
+36,arxiv cs gt,game theory,Computer Science and Game Theory
+37,arxiv cs db,databases,Databases
+38,arxiv cs dl,libraries,Digital Libraries
+39,arxiv cs dm,discrete math,Discrete Mathematics
