@@ -22,7 +22,7 @@ class LlamaAdapter(torch.nn.Module):
         self.top_p = 0.95
 
         print('Loading LLAMA')
-        llama_model_path = '/home/xiaoxin/llama2/llama2_7b/'
+        llama_model_path = '[Your LLM PATH]'
         model_name = "7B"
 
         checkpoint = torch.load(llama_model_path + model_name + "/consolidated.00.pth", map_location="cpu")

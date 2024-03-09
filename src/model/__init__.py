@@ -19,8 +19,8 @@ load_model = {
 
 
 llama_model_path = {
-    '7b': '/home/xiaoxin/llama2/llama2_7b_hf',
-    '13b': '/home/xiaoxin/llama2/llama2_13b_hf',
-    '7b_chat': '/home/xiaoxin/llama2/llama2_7b_chat_hf',
-    '13b_chat': '/home/xiaoxin/llama2/llama2_13b_chat_hf',
+    '7b': '[Your LLM PATH]',
+    '13b': '[Your LLM PATH]',
+    '7b_chat': '[Your LLM PATH]',
+    '13b_chat': '[Your LLM PATH]',
 }
