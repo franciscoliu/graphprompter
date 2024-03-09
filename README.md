@@ -1,10 +1,8 @@
 # GraphPromptTuning (Link Prediction)
 
 ## Environment setup
+For environment setup and data preparation steps, please refer to the main branch [here](https://github.com/franciscoliu/graphprompter/tree/main)
 
-```
-Please refer to the main branch [here](https://github.com/franciscoliu/graphprompter/tree/main)
-```
 
 ## Training
 Once you switch to the branch of ```link_prediction```, you can train the model by running the following command:
