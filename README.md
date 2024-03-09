@@ -38,4 +38,4 @@ python train.py --dataset arxiv --model_name graph_llm --llm_model_name 7b --gnn
 ```
 
 ## Reproduction
-You may refer to ```run.sh``` for detailed commands for reproductions.
+You may refer to ```run.sh``` for detailed commands for reproductions. The main branch is for node classification experiments and the link_prediction branch is for link prediction experiments. 
