@@ -36,3 +36,6 @@ Replace path to the llm checkpoints in the `src/model/__init__.py`, then run
 ```
 python train.py --dataset arxiv --model_name graph_llm --llm_model_name 7b --gnn_model_name gat --seed 0
 ```
+
+## Reproduction
+You may refer to ```run.sh``` for detailed commands for reproductions.
